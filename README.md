@@ -1,2 +1,0 @@
-# Portfolio
-remaking my cv
